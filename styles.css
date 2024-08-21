@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Grey+Qo&family=Pacifico&display=swap');
+
+body{
+    color:white;
+    background:url('plano-de-fundo-do-livro-xfix8ihv6dmfjzyu.jpg');
+    margin: 10px;
+}
+header{
+    border-bottom:solid 2px rgb(243, 248, 253);
+    padding: 20px;
+    font-size: 32px;
+    font-family: "Pacifico", cursive;
+    color: white;
+    text-align: center;
+}
+    section {
+        background: rgb(153, 63, 63);
+        padding-bottom: 20px;
+        padding-top: 32px;
+        display: flex;
+        justify-content: center;
+    }
+    
+    .chamada-texto {
+        margin-right: 5%;
+    }
+
+    h1 {
+        font-size: 30px;
+        color:white;
+    }
+    
+    p {
+        font-family: "Grey Qo", cursive;
+        font-size: 40px;
+        color: black
+    }
+    .chamada {
+        background: rgb(80, 5, 5);
+        padding-bottom: 80px;
+        padding-top: 80px;
+        display: flex;
+    
+    
+        justify-content: center
+    }
+    
+    
+    
+    div {
+        margin-right: 20px;
+    }
+    .chamada-texto {
+        margin-right: 20px;
+    }
+    
+    
+    img {
+        height: 200px;
+    }
+    
+    .categoria-videos{
+        display: flex;
+        overflow-x: auto;
+        gap: 10px;
+    
+    }
+    
+    .categorias{
+        padding-left: 20px;
+        padding-right: 20px;
+        font-family: 
+    }    
+    .categoria-videos img {
+        opacity: 0.7;
+    
+    }
+    .categoria-videos img:hover{
+        opacity: 1.0;
+        border: 1px solid rgb(0, 0, 0);
+    
+    }
+    
+    .categoria h2{
+        color: black;
+    
+    }
+
+    
